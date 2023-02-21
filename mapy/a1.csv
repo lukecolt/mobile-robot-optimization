@@ -1,0 +1,6 @@
+Id; Tag; Typ; Kolor; Wspó³rzêdne,,,,,
+1; mapa; rectangle; white; [0.0,0,200, 200.0],,
+2; punkt_docelowy; oval; red; [167.0,158,187, 178.0],,
+3; robot; oval; green; [35.0,29,55, 49.0],,
+114; przeszkoda_widoczna1; polygon; #994C00; [106.0,80,60,127,134, 99.0]
+271; przeszkoda_niewidoczna1; polygon; gray; [70.0,48,77,131,134, 113.0]

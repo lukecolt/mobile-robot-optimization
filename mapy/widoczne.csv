@@ -1,0 +1,5 @@
+Id;Tag;Typ;Kolor;Wspolrzedne;WspolrzednaX;WspolrzednaY
+1;mapa;rectangle;white;[0.0, 0.0, 100.0, 100.0];0;0
+836;przeszkoda_widoczna1;polygon;#994C00;[47.0, 22.0, 5.0, 95.0, 95.0, 74.0];0;0
+837;robot;oval;green;[18.0, 0.0, 38.0, 20.0];28.0;10.0
+838;punkt_docelowy;oval;red;[79.0, 76.0, 99.0, 96.0];89.0;86.0

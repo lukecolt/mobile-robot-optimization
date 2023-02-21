@@ -1,0 +1,9 @@
+Id;Tag;Typ;Kolor;Wspolrzedne;WspolrzednaX;WspolrzednaY,,,,,,,,,,,,,,,
+1;mapa;rectangle;white;[0.0,0,200, 200.0];0;0,,,,,,,,,,,,
+2;punkt_docelowy;oval;red;[163.0,147,183, 167.0];0;0,,,,,,,,,,,,
+3;robot;oval;green;[33.0,7,53, 27.0];0;0,,,,,,,,,,,,
+202;przeszkoda_widoczna1;polygon;#994C00;[94.0,35,55,82,68,127,111,122,145,100,130,55,135, 17.0];0;0,,
+470;przeszkoda_niewidoczna1;polygon;gray;[117.0,133,180,105,172,59,96,4,85,30,46,59,46,82,52, 124.0];0;0
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"x1, y1, x2, y2",,,,,,,,,,,,,,,

@@ -1,0 +1,4 @@
+Id; Tag; Typ; Kolor; Wspó³rzêdne
+1; mapa; rectangle; white; [0.0, 0.0, 100.0, 100.0]
+2; punkt_docelowy; oval; red; [6.0, 10.0, 26.0, 30.0]
+3; robot; oval; green; [58.0, 47.0, 78.0, 67.0]
